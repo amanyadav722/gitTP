@@ -1,3 +1,11 @@
  <?php
-echo str_replace("world", "Dolly", "Hello world!"); 
+echo ("world", "Dolly", "Hello world!");
+echo ("world", "Dolly", "Hello world!");
+echo ("world", "Dolly", "Hello world!");
+echo ("world", "Dolly", "Hello world!");
+echo ("world", "Dolly", "Hello world!");
+echo ("world", "Dolly", "Hello world!");
+echo ("world", "Dolly", "Hello world!");
+echo ("world", "Dolly", "Hello world!");
+echo ("world", "Dolly", "Hello world!");
 ?> 
